@@ -1,5 +1,3 @@
 proc setinit;
-f
-f
-
-run
+proc options:
+run;
